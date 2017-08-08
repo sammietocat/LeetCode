@@ -1,6 +1,7 @@
-# Solution Set for LeetCode Contest
+# Solutions for LeetCode contest
 
-## Change Log  
-### [2017-06-19]  
-+ **ADDED**  
-    - `README.md` explain the usage of the project
+## Overview  
+This project serves as the solution board for my touring through the [LeetCode](https://leetcode.com/).
+
+## News  
+TBA
