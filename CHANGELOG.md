@@ -6,6 +6,9 @@
 	- `Best-Time-to-Buy-and-Sell-Stock-with-Cooldown` for [problem](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/description/)   
 	- `Best-Time-to-Buy-and-Sell-Stock` for [problem](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/description/)  
 	- `Range-Sum-Query-Immutable` for [problem](https://leetcode.com/problems/range-sum-query-immutable/description/)  
+	- `Set-Mismatch` for [problem 645](https://leetcode.com/problems/set-mismatch/description/)   
+	- `Sum-of-Square-Numbers` for [problem 633](https://leetcode.com/problems/sum-of-square-numbers/description/)  
+	- `Nth-Digit` for [problem 400](https://leetcode.com/problems/nth-digit/description/)  
 
 ## [2017-08-08]  
 + **Added**  
