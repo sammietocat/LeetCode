@@ -1,5 +1,10 @@
 # Change Log  
 
+## [2017-08-12]  
++ **Added**  
+	- `Range-Sum-Query-2D-Immutable` for  [problem 304](https://leetcode.com/problems/range-sum-query-2d-immutable/description/)  
+	- An alternative solution to `Nth-Digit` for [problem 400](https://leetcode.com/problems/nth-digit/description/)   
+
 ## [2017-08-11]  
 + **Added**  
 	- `Best-Time-to-Buy-and-Sell-Stock-II` for [problem](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/description/)     
