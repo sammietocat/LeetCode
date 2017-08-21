@@ -1,5 +1,9 @@
 # Change Log  
 
+## [2017-08-21]  
++ **Added**  
+	- `Image-Smoother` for [problem 661](https://leetcode.com/problems/image-smoother/description/)  
+
 ## [2017-08-12]  
 + **Added**  
 	- `Range-Sum-Query-2D-Immutable` for  [problem 304](https://leetcode.com/problems/range-sum-query-2d-immutable/description/)  
