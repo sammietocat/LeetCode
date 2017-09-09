@@ -1,5 +1,13 @@
 # Change Log  
 
+## [2017-09-09]  
++ **Added**  
+	- `Range-Addition-II` for [problem 598](https://leetcode.com/problems/range-addition-ii/description/)  
+	- `Binary-Tree-Paths` for [problem 257](https://leetcode.com/problems/binary-tree-paths/description/)  
+	- `Path-Sum-II` for [problem 113](https://leetcode.com/problems/path-sum-ii/description/)  
+	- `Path-Sum` for [problem 112](https://leetcode.com/problems/path-sum/description/)   
+	- `Sum-Root-to-Leaf-Numbers` for [problem 129](https://leetcode.com/problems/path-sum-ii/description/)   
+
 ## [2017-08-21]  
 + **Added**  
 	- `Image-Smoother` for [problem 661](https://leetcode.com/problems/image-smoother/description/)  
