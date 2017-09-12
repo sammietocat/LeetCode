@@ -1,5 +1,9 @@
 # Change Log  
 
+## [2017-09-12]  
++ **Added**  
+	- `Longest-Palindromic-Substring` for [problem 5](https://leetcode.com/problems/longest-palindromic-substring/description/)  
+
 ## [2017-09-09]  
 + **Added**  
 	- `Range-Addition-II` for [problem 598](https://leetcode.com/problems/range-addition-ii/description/)  
