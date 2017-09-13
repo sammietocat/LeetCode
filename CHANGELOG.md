@@ -1,5 +1,10 @@
 # Change Log  
 
+## [2017-09-13]  
++ **Added**  
+	- `Course-Schedule` for [problem 207](https://leetcode.com/problems/course-schedule/description/)    
+	- `Course-Schedule-II` for [problem 207](https://leetcode.com/problems/course-schedule-ii/description/)  
+
 ## [2017-09-12]  
 + **Added**  
 	- `Longest-Palindromic-Substring` for [problem 5](https://leetcode.com/problems/longest-palindromic-substring/description/)  
