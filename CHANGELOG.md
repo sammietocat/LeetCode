@@ -4,6 +4,17 @@
 + **Added**  
 	- `Course-Schedule` for [problem 207](https://leetcode.com/problems/course-schedule/description/)    
 	- `Course-Schedule-II` for [problem 207](https://leetcode.com/problems/course-schedule-ii/description/)  
+	- `Binary-Tree-Level-Order-Traversal-II` for [problem 107](https://leetcode.com/problems/binary-tree-level-order-traversal-ii/description/)  
+	- `Average-of-Levels-in-Binary-Tree` for [problem 637](https://leetcode.com/problems/average-of-levels-in-binary-tree/description/)  
+	- `Convert-Sorted-Array-to-Binary-Search-Tree` for [problem 108](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/description/)  
+	- `Minimum-Depth-of-Binary-Tree` for [problem 111](https://leetcode.com/problems/minimum-depth-of-binary-tree/description/)  
+	- `Pascals-Triangle` for [problem 118](https://leetcode.com/problems/pascals-triangle/description/)  
+	- `Pascals-Triangle-II` for [problem 119](https://leetcode.com/problems/pascals-triangle-ii/description/)  
+	- `Valid-Palindrome` for [problem 125](https://leetcode.com/problems/valid-palindrome/description/)  
+	- `Linked-List-Cycle` for [problem 141](https://leetcode.com/problems/linked-list-cycle/description/)  
+	- `Majority-Element` for [problem 169](https://leetcode.com/problems/majority-element/description/)  
+	- `Rotate-Array` for [problem 189](https://leetcode.com/problems/rotate-array/description/)  
+	- `Rotate-List` for [problem 61](https://leetcode.com/problems/rotate-list/description/)  
 
 ## [2017-09-12]  
 + **Added**  
@@ -54,6 +65,3 @@
 	- `StringToInteger`  
 	- `Two-Sum`  
 	- `Valid-Parentheses`  
-
-
-
