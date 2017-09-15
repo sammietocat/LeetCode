@@ -1,5 +1,11 @@
 # Change Log  
 
+## [2017-09-15]  
++ **Added**  
+	- [62-Unique-Paths](https://leetcode.com/problems/unique-paths/description/)  
+	- [63-Unique-Paths-II](https://leetcode.com/problems/unique-paths-ii/description/)  
+	- [414-Third-Maximum-Number](https://leetcode.com/problems/third-maximum-number/description/)  
+
 ## [2017-09-13]  
 + **Added**  
 	- `Course-Schedule` for [problem 207](https://leetcode.com/problems/course-schedule/description/)    
