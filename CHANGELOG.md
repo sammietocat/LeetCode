@@ -1,5 +1,11 @@
 # Change Log  
 
+## [2017-09-17]  
++ **Added**    
+	- [673-Number-of-Longest-Increasing-Subsequence](https://leetcode.com/problems/number-of-longest-increasing-subsequence/description/)  
+	- [647-Palindromic-Substrings](https://leetcode.com/problems/palindromic-substrings/description/)  
+	- [638-Shopping-Offers](https://leetcode.com/problems/shopping-offers/description/)  
+
 ## [2017-09-15]  
 + **Added**  
 	- [62-Unique-Paths](https://leetcode.com/problems/unique-paths/description/)  
