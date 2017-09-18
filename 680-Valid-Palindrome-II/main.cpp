@@ -5,36 +5,39 @@ using namespace std;
 class Solution {
 public:
     static bool validPalindrome(string s) {
-        for (int i = s.length(); i >= 0; --i) {
-            bool ok = true;
-            for (int j = 0, k = s.length() - 1; j < k; ++j, --k) {
-                if (j == i) {
-                    ++j;
+        bool ok = true;
+        for (int i = 0, j = s.length() - 1; i < j; ++i, --j) {
+            // find the first mismatch
+            if (s[i] != s[j]) {
+                // try to delete s[i]
+                for (int a = i + 1, b = j; a < b; ++a, --b) {
+                    if (s[a] != s[b]) {
+                        ok = false;
+                        break;
+                    }
                 }
-                if (k == i) {
-                    --k;
-                }
-                if (j >= k) {
-                    break;
-                }
+                if (ok) { break; }
 
-                if (s[j] != s[k]) {
-                    ok = false;
-                    cout << i << "-" << j << endl;
-                    break;
+                ok = true;
+                // try to delete s[j]
+                for (int a = i, b = j - 1; a < b; ++a, --b) {
+                    if (s[a] != s[b]) {
+                        ok = false;
+                        break;
+                    }
                 }
-            }
-            if (ok) {
-                return true;
+                break;
             }
         }
 
-        return false;
+        return ok;
     }
 };
 
 int main() {
-    string s = "aba";
+    //string s = "aba";
+    //string s = "abca";
+    string s = "cbbcc";
 
     cout << Solution::validPalindrome(s) << endl;
 

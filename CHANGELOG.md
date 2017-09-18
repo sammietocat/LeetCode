@@ -1,5 +1,12 @@
 # Change Log  
 
+## [2017-09-18]  
++ **Added**   
+	- [136-Single-Number](https://leetcode.com/problems/single-number/description/)  
+	- [190-Reverse-Bits](https://leetcode.com/problems/reverse-bits/description/)  
+	- [680-Valid-Palindrome-II](https://leetcode.com/problems/valid-palindrome-ii/description/)  
+
+
 ## [2017-09-17]  
 + **Added**    
 	- [673-Number-of-Longest-Increasing-Subsequence](https://leetcode.com/problems/number-of-longest-increasing-subsequence/description/)  
