@@ -1,6 +1,11 @@
 # Change Log  
 
 ## [2017-09-18]  
++ **Added**  
+	- [678-Valid-Parenthesis-String](https://leetcode.com/problems/valid-parenthesis-string/description/)  
+	- [11-Container-With-Most-Water](https://leetcode.com/problems/container-with-most-water/description/)  
+
+## [2017-09-18]  
 + **Added**   
 	- [136-Single-Number](https://leetcode.com/problems/single-number/description/)  
 	- [190-Reverse-Bits](https://leetcode.com/problems/reverse-bits/description/)  
