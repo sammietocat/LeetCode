@@ -1,5 +1,12 @@
 # Change Log  
 
+## [2017-09-21]  
++ **Added**  
+	- [264-Ugly-Number-II](https://leetcode.com/problems/ugly-number-ii/description/)  
+	- [313-Super-Ugly-Number](https://leetcode.com/problems/super-ugly-number/description/)  
+	- [191-Number-of-1-Bits](https://leetcode.com/problems/number-of-1-bits/description/)   
+	- [172-Factorial-Trailing-Zeroes](https://leetcode.com/problems/factorial-trailing-zeroes/description/)  
+
 ## [2017-09-18]  
 + **Added**  
 	- [678-Valid-Parenthesis-String](https://leetcode.com/problems/valid-parenthesis-string/description/)  
