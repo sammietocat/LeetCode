@@ -3,6 +3,8 @@
 ## [2017-09-25]  
 + **Added**  
 	- [547-Friend-Circles](https://leetcode.com/problems/friend-circles/description/)  
+  - [200-Number-of-Islands](https://leetcode.com/problems/number-of-islands/description/)   
+  - [130-Surrounded-Regions](https://leetcode.com/problems/surrounded-regions/description/)  
 
 ## [2017-09-21]  
 + **Added**  
