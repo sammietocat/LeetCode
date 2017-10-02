@@ -1,5 +1,17 @@
 # Change Log  
 
+## [2017-10-02]  
++ **Added**  
+	- [347-Top-K-Frequent-Elements](https://leetcode.com/problems/top-k-frequent-elements/description/)  
+	- [451-Sort-Characters-By-Frequency](https://leetcode.com/problems/sort-characters-by-frequency/description/)  
+	- [373-Find-K-Pairs-with-Smallest-Sums](https://leetcode.com/problems/find-k-pairs-with-smallest-sums/description/)  
+	- [378-Kth-Smallest-Element-in-a-Sorted-Matrix](https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix/description/)   
+	- [659-Split-Array-into-Consecutive-Subsequences](https://leetcode.com/problems/split-array-into-consecutive-subsequences/description/)  
+	- [649-Dota2-Senate](https://leetcode.com/problems/dota2-senate/description/)   
+	- [95-Teemo-Attacking](https://leetcode.com/problems/teemo-attacking/description/)   
++ **Fixed**  
+	- [213-House-Robber-II](https://leetcode.com/problems/house-robber/description/)  
+
 ## [2017-09-25]  
 + **Added**  
 	- [547-Friend-Circles](https://leetcode.com/problems/friend-circles/description/)  
