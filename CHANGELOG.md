@@ -1,5 +1,19 @@
 # Change Log  
 
+## [2017-10-03]  
++ **Added**  
+  - [155-Min-Stack](https://leetcode.com/problems/min-stack/description/)  
+  - [621-Task-Scheduler](https://leetcode.com/problems/task-scheduler/description/)  
+  - [455-Assign-Cookies](https://leetcode.com/problems/assign-cookies/description/)  
+  - [452-Minimum-Number-of-Arrows-to-Burst-Balloons](https://leetcode.com/problems/minimum-number-of-arrows-to-burst-balloons/description/)  
+  - [435-Non-overlapping-Intervals](https://leetcode.com/problems/non-overlapping-intervals/description/)  
+  - [406-Queue-Reconstruction-by-Height](https://leetcode.com/problems/queue-reconstruction-by-height/description/)  
+  - [402-Remove-K-Digits](https://leetcode.com/problems/remove-k-digits/description/)  
+  - [392-Is-Subsequence](https://leetcode.com/problems/is-subsequence/description/)  
+  - [376-Wiggle-Subsequence](https://leetcode.com/problems/wiggle-subsequence/description/)  
+  - [55-Jump-Game](https://leetcode.com/problems/jump-game/description/)  
+  - [45-Jump-Game-II](https://leetcode.com/problems/jump-game-ii/description/)  
+
 ## [2017-10-02]  
 + **Added**  
 	- [347-Top-K-Frequent-Elements](https://leetcode.com/problems/top-k-frequent-elements/description/)  
