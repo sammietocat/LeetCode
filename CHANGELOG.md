@@ -1,5 +1,10 @@
 # Change Log  
 
+## [2017-10-07]  
++ **Added**  
+	- [542-01-Matrix](https://leetcode.com/problems/01-matrix/description/)   
+	- [529-Minesweeper](https://leetcode.com/problems/minesweeper/description/)  
+
 ## [2017-10-03]  
 + **Added**  
   - [155-Min-Stack](https://leetcode.com/problems/min-stack/description/)  
