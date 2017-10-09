@@ -1,5 +1,18 @@
 # Change Log  
 
+## [2017-10-09]  
++ **Added**   
+	- [677-Map-Sum-Pairs](https://leetcode.com/problems/map-sum-pairs/description/)  
+  - [688-Knight-Probability-in-Chessboard](https://leetcode.com/problems/knight-probability-in-chessboard/description/)  
+  - [646-Maximum-Length-of-Pair-Chain](https://leetcode.com/problems/maximum-length-of-pair-chain/description/)   
+  - [523-Continuous-Subarray-Sum](https://leetcode.com/problems/continuous-subarray-sum/description/)  
+  - [560-Subarray-Sum-Equals-K](https://leetcode.com/problems/subarray-sum-equals-k/description/)  
+  - [494-Target-Sum](https://leetcode.com/problems/target-sum/description/)  
+
++ **Fixed**    
+  - [650-2-Keys-Keyboard](https://leetcode.com/problems/2-keys-keyboard/description/)  
+  - [576-Out-of-Boundary-Paths](https://leetcode.com/problems/out-of-boundary-paths/description/)  
+
 ## [2017-10-07]  
 + **Added**  
 	- [542-01-Matrix](https://leetcode.com/problems/01-matrix/description/)   
