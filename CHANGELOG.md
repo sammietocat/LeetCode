@@ -1,5 +1,13 @@
 # Change Log  
 
+## [2017-10-11]  
++ **Fixed**  
+  - [486-Predict-the-Winner](https://leetcode.com/problems/predict-the-winner/description/)  
++ **Added**  
+  - [474-Ones-and-Zeroes](https://leetcode.com/problems/ones-and-zeroes/description/)  
+  - [515-Find-Largest-Value-in-Each-Tree-Row](https://leetcode.com/problems/find-largest-value-in-each-tree-row/description/)  
+  - [513-Find-Bottom-Left-Tree-Value](https://leetcode.com/problems/find-bottom-left-tree-value/description/)  
+
 ## [2017-10-09]  
 + **Added**   
 	- [677-Map-Sum-Pairs](https://leetcode.com/problems/map-sum-pairs/description/)  
