@@ -1,5 +1,10 @@
 # Change Log  
 
+## [2017-10-15]  
++ **Fixed**  
+  - [417-Pacific-Atlantic-Water-Flow](https://leetcode.com/problems/pacific-atlantic-water-flow/description/)   
+  - [310-Minimum-Height-Trees](https://leetcode.com/problems/minimum-height-trees/description/)  
+
 ## [2017-10-11]  
 + **Fixed**  
   - [486-Predict-the-Winner](https://leetcode.com/problems/predict-the-winner/description/)  
