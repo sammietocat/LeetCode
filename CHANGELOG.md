@@ -1,5 +1,10 @@
 # Change Log  
 
+## [2017-10-17]  
++ **Added**  
+  - [279-Perfect-Squares](https://leetcode.com/problems/perfect-squares/description/)  
+  - [199-Binary-Tree-Right-Side-View](https://leetcode.com/problems/binary-tree-right-side-view/description/)  
+
 ## [2017-10-15]  
 + **Fixed**  
   - [417-Pacific-Atlantic-Water-Flow](https://leetcode.com/problems/pacific-atlantic-water-flow/description/)   
