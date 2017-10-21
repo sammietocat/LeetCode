@@ -1,5 +1,10 @@
 # Change Log  
 
+## [2017-10-21]  
++ **Fixed**  
+  - [526-Beautiful-Arrangement](https://leetcode.com/problems/beautiful-arrangement/description/)  
+  - [401-Binary-Watch](https://leetcode.com/problems/binary-watch/description/)  
+
 ## [2017-10-17]  
 + **Added**  
   - [279-Perfect-Squares](https://leetcode.com/problems/perfect-squares/description/)  
