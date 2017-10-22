@@ -1,5 +1,9 @@
 # Change Log  
 
+## [2017-10-22]  
++ **Added**  
+  - [467-Unique-Substrings-in-Wraparound-String](https://leetcode.com/problems/unique-substrings-in-wraparound-string/description/)  
+
 ## [2017-10-21]  
 + **Fixed**  
   - [526-Beautiful-Arrangement](https://leetcode.com/problems/beautiful-arrangement/description/)  
