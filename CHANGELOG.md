@@ -1,5 +1,10 @@
 # Change Log  
 
+## [2017-10-27]  
++ **Added**  
+  - [687-Longest-Univalue-Path](https://leetcode.com/problems/longest-univalue-path/description/)  
+  - [416-Partition-Equal-Subset-Sum](https://leetcode.com/problems/partition-equal-subset-sum/description/)   
+
 ## [2017-10-22]  
 + **Added**  
   - [467-Unique-Substrings-in-Wraparound-String](https://leetcode.com/problems/unique-substrings-in-wraparound-string/description/)  
