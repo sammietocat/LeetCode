@@ -1,5 +1,12 @@
 # Change Log  
 
+## [2017-10-29]  
++ **Added**  
+  - [524-Longest-Word-in-Dictionary-through-Deleting](https://leetcode.com/problems/longest-word-in-dictionary-through-deleting/description/)  
+  - [350-Intersection-of-Two-Arrays-II](https://leetcode.com/problems/intersection-of-two-arrays-ii/description/)  
+  - [349-Intersection-of-Two-Arrays](https://leetcode.com/problems/intersection-of-two-arrays/description/)  
+  - [413-Arithmetic-Slices](https://leetcode.com/problems/arithmetic-slices/description/)  
+
 ## [2017-10-27]  
 + **Added**  
   - [687-Longest-Univalue-Path](https://leetcode.com/problems/longest-univalue-path/description/)  
